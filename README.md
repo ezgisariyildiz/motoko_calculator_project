@@ -5,5 +5,5 @@ Bu repo, Motoko programlama dili ile yazılmış bir hesap makinesi uygulamasın
 
 ## Motoko Playground Linki
 
-[Kodu Motoko Playground'da Görüntülemek İçin]([https://motoko-playground.dfinity.org/...](https://m7sm4-2iaaa-aaaab-qabra-cai.raw.ic0.app/?tag=1501560757)
+[Kodu Motoko Playground'da Görüntülemek İçin]([https://motoko-playground.dfinity.org/...](https://m7sm4-2iaaa-aaaab-qabra-cai.raw.ic0.app/?tag=1501560757))
 
